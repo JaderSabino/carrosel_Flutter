@@ -1,6 +1,7 @@
 # carrosel_flutter
 
 A new Flutter project.
+Um projeto para estudo e prática
 
 ## Getting Started
 
